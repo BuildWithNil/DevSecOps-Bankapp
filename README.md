@@ -447,4 +447,3 @@ To delete the local infrastructure:
 <div align="center">
 
 </div>
----
