@@ -446,8 +446,4 @@ To delete the local infrastructure:
 
 <div align="center">
 
-Happy Learning
-
-**TrainWithShubham**
-
 </div>
